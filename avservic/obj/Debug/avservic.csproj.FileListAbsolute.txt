@@ -1,0 +1,17 @@
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\bin\Debug\avservic.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\bin\Debug\avservic.exe
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\bin\Debug\avservic.pdb
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\obj\Debug\avservic.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\obj\Debug\avservic.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\obj\Debug\avservic.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\obj\Debug\avservic.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\obj\Debug\avservic.exe
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\obj\Debug\avservic.pdb
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\obj\Debug\avservic.Form2.resources
+c:\users\admin\documents\visual studio 2012\Projects\avservic\avservic\bin\Debug\автосервис.accdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\avservic\avservic\obj\Debug\avservic.Form3.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\avservic\avservic\obj\Debug\avservic.Form4.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\avservic\avservic\obj\Debug\avservic.Form5.resources
+C:\Users\ANDREJ\Desktop\avservic\avservic\bin\Debug\avservic.exe.config
+C:\Users\ANDREJ\Desktop\avservic\avservic\obj\Debug\avservic.exe
+C:\Users\ANDREJ\Desktop\avservic\avservic\obj\Debug\avservic.pdb
